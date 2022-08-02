@@ -212,7 +212,7 @@
                   stroke-linejoin="round"
                 />
               </svg>
-              <p class="ml-3 text-sm text-white">Over +30 students already.</p>
+              <p class="ml-3 text-sm text-white">Over +35 students already.</p>
             </div>
 
             <div class="flex items-center">
